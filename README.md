@@ -16,7 +16,7 @@ Welcome to the Tech Job Advertisement Generator! This tool is designed to assist
 
 The Job Advertisement Generator (JAG) is a tool developed to simplify the process of drafting job advertisements. It automates the generation of job descriptions based on user input, saving time and ensuring consistency in job postings.
 
-![structure](RAG.jpg)
+![structure](./RAG.jpg)
 
 ## Features
 
@@ -44,8 +44,8 @@ To use JAG, you'll need:
 2. Run the frontend: Hackaton2024-front/ `ionic serve`
 2. Follow the on-screen prompts to input job details and preferences.
 3. Preview the generated job advertisement.
-![webpage](interface1.jpg)
-![webpage](interface2.jpg)
+![webpage](./interface1.jpg)
+![webpage](./interface2.jpg)
 
 ## Contributing
 
