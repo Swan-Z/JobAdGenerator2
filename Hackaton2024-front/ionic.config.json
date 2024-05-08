@@ -1,0 +1,7 @@
+{
+  "name": "Hackaton2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
